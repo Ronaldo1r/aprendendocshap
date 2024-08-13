@@ -1,0 +1,7 @@
+C:\Users\ronaldo.cfaria\source\repos\Apredendocshap\Cap02_Ex01.PNG\bin\Debug\Cap02_Ex01.PNG.exe.config
+C:\Users\ronaldo.cfaria\source\repos\Apredendocshap\Cap02_Ex01.PNG\bin\Debug\Cap02_Ex01.PNG.exe
+C:\Users\ronaldo.cfaria\source\repos\Apredendocshap\Cap02_Ex01.PNG\bin\Debug\Cap02_Ex01.PNG.pdb
+C:\Users\ronaldo.cfaria\source\repos\Apredendocshap\Cap02_Ex01.PNG\obj\Debug\Cap02_Ex01.PNG.csproj.AssemblyReference.cache
+C:\Users\ronaldo.cfaria\source\repos\Apredendocshap\Cap02_Ex01.PNG\obj\Debug\Cap02_Ex01.PNG.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo.cfaria\source\repos\Apredendocshap\Cap02_Ex01.PNG\obj\Debug\Cap02_Ex01.PNG.exe
+C:\Users\ronaldo.cfaria\source\repos\Apredendocshap\Cap02_Ex01.PNG\obj\Debug\Cap02_Ex01.PNG.pdb
